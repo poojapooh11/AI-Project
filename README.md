@@ -1,21 +1,31 @@
 # AI-Project
 project on detecting fraud accounts on twitter using Machine Learning Algorithms                                                                                       
-. Used ml algo to group real and fake users on twitter
-. The ml algo which are implemented is
-Naive bayes
-KNN
-SVC
-these algorithms will calculate the error rate and accuracy of the datasets and predict the fraud account users
-. for accuracy we used confusion matrix, 
-. visualization comparision
-. output
-. required libraries- pandas, pip install 
-. code(python)
-. dataset from kaggle
-. also a manual entry can do it
-. CSV file
+. Used Machine Learning algorithms to group real and fake users on twitter                                                                                             
+. The ML algorithms which are implemented in this project are                                                                                                           
+1) Multinomial Naive bayes                                                                                                                                                 
+2) KNN(K- Nearest Neighbour)                                                                                                                                               
+3) Linear SVC(Support Vector Classifier)                                                                                                                                   
+these algorithms will calculate the error rate and accuracy of the datasets and predict the fraud account users                                                  
+. The model metrics includes confusion matrix, accuracy score, classification report, precision scores, recall score and f1 scores.
+. Data visualization methods are used to compare the algorithms accuracy that will be shown as output.
+. The required libraries are - tkinter, pandas, numpy, matplotlib etc( pip install ) 
+. The complete code is written in python.
+. The CSV dataset is taken from kaggle
+. also a manual entry can be done to detect the users
 . change file name
 . dataset name
 
+The code is pretty simple and one can easily run it on their computer if there is Jupyter notebook in their system. 
+Here are the software and Hardware requirements:
+
+Software: OS: Windows 10 Jupyter Notebook Python
+
+Hardware: RAM: 8GB Processor: Intel i5 Graphics: 4GB
+
+These are the requirements but you do not need to be bothered if your computer does not have these specifications, you can also run on a low configuration system too.
+
+Please note that this code is only the backend to the fraud users detection on twitter, in order to use this code professionally, there has to be a decent frontend GUI.
+
+Explore and Enjoy. Happy coding.
 
 
