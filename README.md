@@ -1,19 +1,10 @@
 # AI-Project
 project on detecting fraud accounts on twitter using Machine Learning Algorithms                                                                                       
-. Used Machine Learning algorithms to group real and fake users on twitter                                                                                             
-. The ML algorithms which are implemented in this project are                                                                                                           
+We used Machine Learning algorithms to group real and fake users on twitter. The ML algorithms which are implemented in this project are                                                                                                           
 1) Multinomial Naive bayes                                                                                                                                                 
 2) KNN(K- Nearest Neighbour)                                                                                                                                               
 3) Linear SVC(Support Vector Classifier)                                                                                                                                   
-these algorithms will calculate the error rate and accuracy of the datasets and predict the fraud account users                                                  
-. The model metrics includes confusion matrix, accuracy score, classification report, precision scores, recall score and f1 scores.                                 
-. Data visualization methods are used to compare the algorithms accuracy that will be shown as output.                                                               
-. The required libraries are - tkinter, pandas, numpy, matplotlib etc( pip install ).                                                                               
-. The complete code is written in python.                                                                                                                           
-. The CSV dataset is taken from kaggle.                                                                                                                             
-. also a manual entry can be done to detect the users.                                                                                                               
-. change file name.                                                                                                                                                 
-. dataset name.
+These algorithms will calculate the error rate and accuracy of the datasets and predict the fraud account users. The model metrics includes confusion matrix, accuracy score, classification report, precision scores, recall score and f1 scores. Data visualization methods are used to compare the algorithms accuracy that will be shown as output. The required libraries are - tkinter, pandas, numpy, matplotlib etc( pip install ). The complete code is written in python. The CSV dataset is taken from kaggle. Also a manual entry can be done to detect the users. change file name. Dataset name.
 
 The code is pretty simple and one can easily run it on their computer if there is Jupyter notebook in their system. 
 Here are the software and Hardware requirements:
